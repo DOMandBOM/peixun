@@ -1,0 +1,137 @@
+.wrap {
+  width: 1200px;
+  margin: 0px auto;
+  overflow: hidden;
+}
+body, ul, ol, li, p, h1, h2, h3, h4, h5, h6, form, fieldset, table, tr, th, td, img, div, span, input, iframe, textarea, a, dl, dt, dd, ul, ol, li {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-family: "Microsoft YaHei", "微软雅黑", "新宋体", "宋体";
+}
+a {
+  color: #888;
+  cursor: pointer;
+  text-decoration: none;
+}
+img {
+  border: none;
+}
+.mt30 {
+  margin: 30px auto 0px;
+  overflow: hidden;
+}
+.m40 {
+margin: 40px auto;
+overflow: hidden;
+}
+body {
+  font-family: "Microsoft YaHei", "微软雅黑", "新宋体", "宋体";
+  font-size: 14px;
+  background: #f3f3f3;
+}
+.ml30 {
+  margin: 0px 15px;
+  overflow: hidden;
+}
+a {
+  color: #888;
+  cursor: pointer;
+  text-decoration: none;
+}
+.info {
+  width: 100%;
+  line-height: 2.2em;
+  overflow: hidden;
+}
+.contit h2 {
+  font-size: 24px;
+  font-weight: bold;
+  display: block;
+  float: left;
+  width: 400px;
+}
+.contit span {
+  float: right;
+  font-size: 15px;
+  color: #999;
+}
+.contit {
+  border-bottom: 1px dashed #cdcdcd;
+  height: 80px;
+  line-height: 80px;
+  overflow: hidden;
+}
+.info {
+  width: 100%;
+  line-height: 2.2em;
+  overflow: hidden;
+}
+.info ul {
+position: relative;
+width: 1300px;
+margin-top: 30px;
+overflow: hidden;
+}
+
+.info ul li {
+width: 280px;
+float: left;
+margin-right: 20px;
+margin-bottom: 20px;
+overflow: hidden;
+}
+
+.info ul li img {
+width: 280px;
+/* height: 200px; */
+padding: 4px px;
+border: 1px solid #dcdcdc;
+}
+.info dl {
+  width: 46%;
+  margin: 20px 2%;
+  /* height: 145px; */
+  padding-bottom: 20px;
+  border-bottom: 1px solid #dedede;
+  display: block;
+  float: left;
+}
+.info dl dt {
+  font-size: 18px;
+  font-weight: bold;
+  height: 28px;
+  margin-bottom: 10px;
+  overflow: hidden;
+}
+.info dl dt a {
+  color: #000;
+}
+.info dl dd {
+  line-height: 2em;
+  font-size: 15px;
+  color: #777;
+  overflow: hidden;
+}
+.pagebox {
+  text-align: center;
+  width: 1200px;
+  clear: both;
+  overflow: hidden;
+}
+.pagebox span {
+  padding: 0px 15px 0px 0px;
+  color: #666;
+}
+.pagebox a {
+  border: 1px solid #ccc;
+  margin-right: 5px;
+  display: none;
+}
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
